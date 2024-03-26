@@ -1,7 +1,7 @@
 {
     "gitflow4code.features": [
         {
-            "name": "feature/Nettoyage_Code",
+            "name": "feature/Base_de_donnée",
             "base": "develop"
         }
     ]
