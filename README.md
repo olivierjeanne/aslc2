@@ -15,4 +15,4 @@ Cette application permet de gerer l'association
 
 ## ASLC2 GitFlow
 
-Les développements seront ersionnés avec GitFlow 
+Les développements seront versionnés avec GitFlow 
